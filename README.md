@@ -14,13 +14,13 @@ You can roll around, rotate camera and destroy monsters with the laser beam.
 You have to avoid attacking shibas.
 
 <p align="center">
-  <img src="https://github.com/3079/Dicing-With-Death/blob/main/dwd_2.gif?raw=true"/>
+  <img src="https://github.com/3079/Dicing-With-Death/blob/main/dwd_3.gif?raw=true"/>
 </p>
 
 You can also undo your actions.
 
 <p align="center">
-  <img src="https://github.com/3079/Dicing-With-Death/blob/main/dwd_3.gif?raw=true"/>
+  <img src="https://github.com/3079/Dicing-With-Death/blob/main/dwd_2.gif?raw=true"/>
 </p>
 
 I was responsible for programming and building of level 6.  
